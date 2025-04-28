@@ -2,7 +2,7 @@ import json
 import os
 from tqdm import tqdm
 
-annotate_json_file = "./BDD-X-Annotations_v1_cleaned_v2.json"
+annotate_json_file = "./datasets/BDD-X-Annotations_v1_cleaned_v2.json"
 annotate_dict = {}
 
 with open(annotate_json_file, 'r') as f:
@@ -21,7 +21,7 @@ for i in tqdm(range(start_point, end_point)):
     video_tag = annotate_dict[str(i)]["Input.Video"]
     answer_length = annotate_dict[str(i)]["Answer-Length"]
     for j in range(1, answer_length+1):
-        video_after_path = f"./videos-cut/{video_tag}-{j}.mp4"
+        video_after_path = f"./datasets/videos-cut/{video_tag}-{j}.mp4"
         
         if not os.path.isfile(video_after_path):
             no_exist_list.append(video_after_path)
