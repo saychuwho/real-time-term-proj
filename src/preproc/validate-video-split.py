@@ -26,4 +26,7 @@ for i in tqdm(range(start_point, end_point)):
         if not os.path.isfile(video_after_path):
             no_exist_list.append(video_after_path)
     
-with open(no_exist_list_file, 'w') as f: f.write(str(no_exist_list))
+if not no_exist_list: print("All video splited!")
+else: 
+    with open(no_exist_list_file, 'w') as f:
+        f.write(str(no_exist_list))

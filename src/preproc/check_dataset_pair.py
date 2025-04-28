@@ -2,12 +2,13 @@ import os
 import json
 import shutil
 
-annotate_json_file = "./BDD-X-Annotations_v1_cleaned.json"
-dataset_path = "/home/saychuwho/BDD/samples-1k/samples-1k/videos/"
-dataset_path_2 = "/home/saychuwho/BDD/train/train/videos/"
+annotate_json_file = "./datasets/BDD-X-Annotations_v1_cleaned.json"
 
-result_txt = "./check_dataset.json"
-copy_path_head = "./videos/"
+dataset_path = "./datasets/original-BDD-X/samples-1k/videos/"
+dataset_path_2 = "./datasets/original-BDD-X/train/videos/"
+
+result_txt = "./datasets/check_dataset.json"
+copy_path_head = "./datasets/videos/"
 
 
 annotate_dict = {}
