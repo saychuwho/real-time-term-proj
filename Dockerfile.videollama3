@@ -15,6 +15,7 @@ COPY ./src /workspaces/src
 
 RUN \
     pip install --upgrade pip && \
-    pip install -r ./src/container-prep/requirements-videollama3.txt
+    pip install -r ./src/container-prep/requirements-videollama3.txt && \
+    pip install flash-attn --no-build-isolation
 
 CMD ["python", "./src/inference/inference-test-videollama3.py"]
