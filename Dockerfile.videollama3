@@ -11,11 +11,11 @@ RUN \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-COPY ./src /workspaces/src
+COPY ./src/container-prep/requirements-videollama3.txt ./requirements-videollama3.txt
 
 RUN \
     pip install --upgrade pip && \
-    pip install -r ./src/container-prep/requirements-videollama3.txt && \
+    pip install -r ./requirements-videollama3.txt && \
     pip install flash-attn --no-build-isolation
 
-CMD ["python", "./src/inference/inference-test-videollama3.py"]
+CMD ["/bin/bash", "./src/entrypoint-videollama3.sh"]

@@ -4,8 +4,13 @@ from tqdm import tqdm
 annotated_bddx = {}
 annotated_file = "./datasets/BDD-X-Annotations_v1_cleaned_v2.json"
 
-annotated_videollama = []
-annotated_videollama_file = "./datasets/BDD-X-Annotations-finetune.json"
+annotated_train = []
+annotated_val = []
+annotated_test = []
+
+annotated_training_file = "./datasets/BDD-X-Annotations-finetune-train.json"
+annotated_val_file = "./datasets/BDD-X-Annotations-finetune-val.json"
+annotated_test_file = "./datasets/BDD-X-Annotations-finetune-test.json"
 
 
 with open(annotated_file, 'r') as f: annotated_bddx = json.load(f)
@@ -14,6 +19,8 @@ start_point = 1
 end_point = 7000
 
 video_path_head = "./datasets/videos-cut/"
+
+tmp_counter = 0
 
 for i in tqdm(range(start_point, end_point)):
     if annotated_bddx.get(str(i)) is None: continue
@@ -44,6 +51,14 @@ for i in tqdm(range(start_point, end_point)):
             }
         ]
         tmp_dict["conversations"] = conversation_list
-        annotated_videollama.append(tmp_dict)
+        if 1 <= i <= 6000: annotated_train.append(tmp_dict)
+        elif 6001 <= i < 6300: annotated_val.append(tmp_dict)
+        elif 6300 <= i < 7000: annotated_test.append(tmp_dict)
 
-with open(annotated_videollama_file, 'w') as f: json.dump(annotated_videollama, f, indent=4)
+
+with open(annotated_training_file, 'w') as f: json.dump(annotated_train, f, indent=4)
+with open(annotated_val_file, 'w') as f: json.dump(annotated_val, f, indent=4)
+with open(annotated_test_file, 'w') as f: json.dump(annotated_test, f, indent=4)
+print(f"Annotated train: {len(annotated_train)}")
+print(f"Annotated val: {len(annotated_val)}")
+print(f"Annotated test: {len(annotated_test)}")

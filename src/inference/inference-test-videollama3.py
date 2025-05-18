@@ -18,7 +18,7 @@ conversation = [
         "role": "user",
         "content": [
             {"type": "video", "video": {"video_path": "./datasets/inference-test/basketball.mp4", "fps": 1, "max_frames": 180}},
-            {"type": "text", "text": "What is the cat doing?"},
+            {"type": "text", "text": "What can you see in the video?"},
         ]
     },
 ]
