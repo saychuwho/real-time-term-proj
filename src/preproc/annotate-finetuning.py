@@ -7,10 +7,12 @@ annotated_file = "./datasets/BDD-X-Annotations_v1_cleaned_v2.json"
 annotated_train = []
 annotated_val = []
 annotated_test = []
+annotated_sampe = []
 
 annotated_training_file = "./datasets/BDD-X-Annotations-finetune-train.json"
 annotated_val_file = "./datasets/BDD-X-Annotations-finetune-val.json"
 annotated_test_file = "./datasets/BDD-X-Annotations-finetune-test.json"
+annotated_sample_file = "./datasets/BDD-X-Annotations-finetune-sample.json"
 
 
 with open(annotated_file, 'r') as f: annotated_bddx = json.load(f)
@@ -55,10 +57,15 @@ for i in tqdm(range(start_point, end_point)):
         elif 6001 <= i < 6300: annotated_val.append(tmp_dict)
         elif 6300 <= i < 7000: annotated_test.append(tmp_dict)
 
+        if 1 <= i <= 1000: annotated_sampe.append(tmp_dict)
+
 
 with open(annotated_training_file, 'w') as f: json.dump(annotated_train, f, indent=4)
 with open(annotated_val_file, 'w') as f: json.dump(annotated_val, f, indent=4)
 with open(annotated_test_file, 'w') as f: json.dump(annotated_test, f, indent=4)
+with open(annotated_sample_file, 'w') as f: json.dump(annotated_sampe, f, indent=4)
+
 print(f"Annotated train: {len(annotated_train)}")
 print(f"Annotated val: {len(annotated_val)}")
 print(f"Annotated test: {len(annotated_test)}")
+print(f"Annotated sample: {len(annotated_sampe)}")

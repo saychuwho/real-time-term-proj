@@ -1,0 +1,67 @@
+Map (num_proc=24):   4%|████▍                                                                                                                   | 311/8474 [00:19<06:48, 19.97 examples/s$
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/00495359-f020db82-7.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/00495359-f020db82-7.mp4)                                                               
+Map (num_proc=24):   6%|██████▋                                                                                                                 | 473/8474 [00:30<06:56, 19.19 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/05fa6494-2fad5381-2.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/05fa6494-2fad5381-2.mp4)                                                               
+Map (num_proc=24):   7%|████████▌                                                                                                               | 603/8474 [00:37<06:20, 20.68 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/03f6e688-415b77da-2.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/03f6e688-415b77da-2.mp4)                                                               
+Map (num_proc=24):  11%|████████████▊                                                                                                           | 906/8474 [00:58<06:52, 18.36 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/036f3b5f-ee1521de-6.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/036f3b5f-ee1521de-6.mp4)                                                               
+Map (num_proc=24):  15%|█████████████████▍                                                                                                     | 1244/8474 [01:20<06:22, 18.91 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/02d478d1-cfb83eb8-5.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/02d478d1-cfb83eb8-5.mp4)                                                               
+Map (num_proc=24):  27%|███████████████████████████████▋                                                                                       | 2256/8474 [02:25<06:27, 16.04 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/00268999-0b20ef00-7.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/00268999-0b20ef00-7.mp4)                                                               
+Map (num_proc=24):  28%|█████████████████████████████████▏                                                                                     | 2361/8474 [02:31<07:03, 14.44 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/038db692-a3659ab7-1.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/038db692-a3659ab7-1.mp4)                                                               
+Map (num_proc=24):  31%|████████████████████████████████████▋                                                                                  | 2609/8474 [02:45<06:03, 16.12 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06257efc-a0ad911e-3.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06257efc-a0ad911e-3.mp4)                                                               
+Map (num_proc=24):  32%|██████████████████████████████████████▎                                                                                | 2725/8474 [02:53<06:18, 15.20 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/05e5b952-70bc5050-6.mp4)                                                               
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/05e5b952-70bc5050-6.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/02d478d1-e6811391-9.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/02d478d1-e6811391-9.mp4)
+Map (num_proc=24):  44%|████████████████████████████████████████████████████▋                                                                  | 3748/8474 [03:58<04:26, 17.70 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/01d25bbc-670b6caa-6.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/01d25bbc-670b6caa-6.mp4)
+Map (num_proc=24):  49%|██████████████████████████████████████████████████████████▎                                                            | 4152/8474 [04:25<04:57, 14.53 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06fce5b8-efc1a0dd-8.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06fce5b8-efc1a0dd-8.mp4)
+Map (num_proc=24):  52%|█████████████████████████████████████████████████████████████▌                                                         | 4383/8474 [04:41<04:40, 14.59 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/00810e80-37641274-2.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/00810e80-37641274-2.mp4)
+Map (num_proc=24):  62%|██████████████████████████████████████████████████████████████████████████▎                                            | 5295/8474 [05:41<04:02, 13.09 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/022ba62d-3353f550-6.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/022ba62d-3353f550-6.mp4)
+Map (num_proc=24):  65%|█████████████████████████████████████████████████████████████████████████████▊                                         | 5540/8474 [05:56<03:04, 15.92 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/0714456d-083ade57-5.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/0714456d-083ade57-5.mp4)
+Map (num_proc=24):  67%|███████████████████████████████████████████████████████████████████████████████▋                                       | 5671/8474 [06:04<03:01, 15.40 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/066d6f37-6037f6cf-8.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/066d6f37-6037f6cf-8.mp4)
+Map (num_proc=24):  72%|█████████████████████████████████████████████████████████████████████████████████████▉                                 | 6119/8474 [06:33<03:03, 12.82 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/0336de82-802d2437-2.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/0336de82-802d2437-2.mp4)
+Map (num_proc=24):  78%|████████████████████████████████████████████████████████████████████████████████████████████▉                          | 6621/8474 [07:08<02:21, 13.07 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06cb522f-f1ff4334-5.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06cb522f-f1ff4334-5.mp4)
+Map (num_proc=24):  79%|██████████████████████████████████████████████████████████████████████████████████████████████▌                        | 6730/8474 [07:15<03:13,  8.99 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/05e261cb-ef8cd52f-6.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/05e261cb-ef8cd52f-6.mp4)
+Map (num_proc=24):  81%|████████████████████████████████████████████████████████████████████████████████████████████████                       | 6843/8474 [07:23<01:56, 13.97 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/03d34d05-4a61174c-3.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/03d34d05-4a61174c-3.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06cb522f-f3b53ccf-7.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/06cb522f-f3b53ccf-7.mp4)
+Map (num_proc=24):  83%|███████████████████████████████████████████████████████████████████████████████████████████████████▏                   | 7059/8474 [07:35<01:13, 19.18 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/018d962a-fd869a57-6.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/018d962a-fd869a57-6.mp4)
+Map (num_proc=24):  90%|██████████████████████████████████████████████████████████████████████████████████████████████████████████▉            | 7611/8474 [08:11<00:48, 17.65 examples/s]
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/07cacc74-61869ca0-6.mp4)
+Skipping sample due to error: 'NoneType' object is not subscriptable (video: ./datasets/videos-cut/07cacc74-61869ca0-6.mp4)

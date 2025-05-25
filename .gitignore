@@ -3,4 +3,7 @@
 *.mov
 *.mp4
 
+/finetuned-model/*
+
+!/finetuned-model/.gitkeep
 !/datasets/inference-test/basketball.mp4
