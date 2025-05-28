@@ -1,0 +1,167 @@
+{
+    "power_mode":{
+        "MAXN": {
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "15W":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "30W":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "40W":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        }
+    },
+    "model_size":{
+        "500M":{
+            "model_path": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+            "preproc_path": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "2.2B": {
+            "model_path": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+            "preproc_path": "HuggingFaceTB/SmolVLM2-2.2B-Instruct",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "2B": {
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "7B":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-7B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-7B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        }
+    },
+    "output_tokens":{
+        "4":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 4,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "8":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 8,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "12":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 12,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "16":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 16,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "32":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 32,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "48":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 48,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "64":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "80":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 80,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "128":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 128,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        }
+    },
+    "input_size":{
+        "very_short":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "very_short"
+        },
+        "short":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "medium":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "medium"
+        },
+        "long":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "long"
+        },
+        "very_long":{
+            "model_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "preproc_path": "DAMO-NLP-SG/VideoLLaMA3-2B",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "very_long"
+        }
+    },
+    "model_quantization_level":{
+
+    }
+}

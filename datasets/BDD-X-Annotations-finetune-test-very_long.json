@@ -1,0 +1,5834 @@
+[
+    {
+        "video": [
+            "./datasets/videos-cut/1f4bbfc7-b8401819-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving quickly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there are zero cars to slow it down."
+            }
+        ],
+        "duration": 23.023023023023026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/1f607426-ec1d8e2e-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving slowly forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is moving slowly, causing the car to move slowly."
+            }
+        ],
+        "duration": 30.03003003003003
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/1f7ba5ab-0dc7d358-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has changed to the left hand lane and is stopped at an intersection controlled by a red light"
+            }
+        ],
+        "duration": 29.01234567901235
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/1f7ba5ab-1709d210-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is green and traffic is moving normally."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/20652cf8-bd6d23f4-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopping"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 33.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/215cac43-c168137f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the right lane"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there are no cars on either lane."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/21738eae-c06eb7cb-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car brakes to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the light ahead is red"
+            }
+        ],
+        "duration": 27.010343677010344
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/21863cf3-00945fde-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding forward slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is beginning to be able to move through the intersection in a stop and go traffic pattern"
+            }
+        ],
+        "duration": 26.026026026026027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/21c70c25-d8c1ee6a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as traffic in front of it moves forward."
+            }
+        ],
+        "duration": 23.023023023023026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/21fd3bf5-ec10413a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the road is clear of traffic."
+            }
+        ],
+        "duration": 38.00467133800467
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/21fd3bf5-f4148a5e-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the rightmost lane."
+            }
+        ],
+        "duration": 26.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2272b934-8bf17e56-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has completed its lane change maneuver and is driving in the leftmost lane"
+            }
+        ],
+        "duration": 27.005347593582886
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/23771c61-5812334d-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the right lane"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since that lane is moving quickly."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/245ddac9-fd6a7714-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding forward on the roadway."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/24664150-193759cb-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is speeding down the left lane of the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the left lane is quick."
+            }
+        ],
+        "duration": 33.01634968301635
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2564bfee-d7aa891a-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car moves back right and stops"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it has passed the double parked car, but the light is red."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/259d871b-e8995b85-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the cars in front are also stopped."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/25a0f845-ce9d1010-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has passed through the intersection"
+            }
+        ],
+        "duration": 26.026026026026027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/25c4e089-e1d5b931-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding forward down the roadway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "There are no obstructions ahead of the car on the roadway"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/25c6e695-ac5bc085-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car makes a right and accelerates up the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the street is clear of traffic or pedestrians."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/25cf0294-4150a6fd-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car travels in the right lane"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is moving slower than the rest of traffic."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/25d05370-9b65a9be-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car inches forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there is room to pull forward further."
+            }
+        ],
+        "duration": 23.023023023023026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/25e007b4-dddbb2a4-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/263c60f5-d63bc8d3-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car remains at a standstill"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "while stuck in traffic"
+            }
+        ],
+        "duration": 25.025025025025027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/264b9ed7-0b1d0395-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slows to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "for a red light up ahead."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/264b9ed7-358bb41a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is green and there are no nearby cars in front of it."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/264b9ed7-7663a087-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has completed its right hand turn and is proceeding forward."
+            }
+        ],
+        "duration": 28.02802802802803
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/264b9ed7-a302614c-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car never moves"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "while parked on the side of the street"
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/264b9ed7-e52d06fe-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving down the road slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the the traffic is also moving slowly."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2670eb88-251feff1-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "at a red light with pedestrians in the crosswalk."
+            }
+        ],
+        "duration": 31.01434768101435
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/26750c68-655e2c56-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no other cars on the road."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/26db50de-3633468e-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has completed its U-turn and is driving forward in the middle lane of the street"
+            }
+        ],
+        "duration": 21.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27114f20-b978add1-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is traveling straight"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as it heads down the street"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27234511-24b0e1d8-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the roadway."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving in the right hand lane."
+            }
+        ],
+        "duration": 21.02272727272727
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27248c22-0ae0f14d-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked at the curb on the right"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is at its destination."
+            }
+        ],
+        "duration": 40.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27248c22-a748e30f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2732a30a-9f73e21b-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic ahead is flowing nicely."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27476310-24efa033-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving very quickly and carelessly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it passed a stop sign without stopping."
+            }
+        ],
+        "duration": 24.00734067400734
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/275371d9-0b1299a6-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light at the intersection is red."
+            }
+        ],
+        "duration": 25.008341675008342
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/276070ef-01ae3503-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopping"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2764a2ce-d2cdc288-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no nearby cars in its lane."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/276ffed2-598cd603-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the road is wet and dangerous."
+            }
+        ],
+        "duration": 37.00367033700367
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/278f9663-22da5299-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving forward slowly down the roadway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is proceeding slowly through an intersection controlled by a stop sign."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/278f9663-7aeb80ff-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car travels quickly in the center lane of the highway at night"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the road is clear of traffic."
+            }
+        ],
+        "duration": 40.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2793cd68-5d28d9cd-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling forward."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving in the right hand lane."
+            }
+        ],
+        "duration": 22.00533867200534
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27944a6b-bb0c56d6-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is motionless"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it is parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27a4125e-8f7758e0-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car stops"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 30.03003003003003
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27b3b7a0-6f4a26e7-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27b3b7a0-7586c958-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The vehicle is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked on the right side of the road."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/27b4ec10-92442133-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car heads down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the street is clear."
+            }
+        ],
+        "duration": 21.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/280aa239-d8e9f994-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2819281f-a885c233-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car makes a quick halt"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the light just became red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/281a8cc4-89b5ca4a-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slows to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it has reached a red light."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2828397d-20f2a098-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "for a red light."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/282d3253-67733ea7-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car moves to the left lane and slows to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there is a taxi also switching lanes ahead as well as a red light."
+            }
+        ],
+        "duration": 23.00633967300634
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2832a6cc-6fc2d3bd-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward on an on ramp"
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/283dcfc4-09f87e07-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead is stopped at an intersection"
+            }
+        ],
+        "duration": 24.024024024024026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/284438e5-fff83c09-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 21.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/284c1af7-5fa86022-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving in the right hand lane."
+            }
+        ],
+        "duration": 23.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/284c1af7-8df2e812-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car travels at a moderate speed in the right lane"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is moving well."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/284c1af7-8e15c228-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as traffic in front of it drives forward slowly while the light is green."
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/285e05af-7c8d9569-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the truck in front of it has stopped and it can't go around."
+            }
+        ],
+        "duration": 30.03003003003003
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/285e05af-fbb2a305-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is stopped at an intersection, preventing the car from advancing on the roadway."
+            }
+        ],
+        "duration": 39.00567233900567
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2869ba61-e852e3c7-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car comes to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light has turned to red."
+            }
+        ],
+        "duration": 23.00633967300634
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2877ad3a-efa8df5f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/287a82cf-2d6456fd-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the right hand lane of the road."
+            }
+        ],
+        "duration": 21.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/288fd0fe-11b2621e-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car isn't moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked along the curb."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28948a8f-71a7b958-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is sticking to the right side of the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since that side moves forward."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2895b5bc-249964c6-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has completed its turn through the intersection and is travelling down the left hand lane"
+            }
+        ],
+        "duration": 22.00533867200534
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2895b5bc-3610efd7-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car accelerates and goes down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light changes to green and the light ahead is also green."
+            }
+        ],
+        "duration": 33.033033033033036
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2895b5bc-7d0638a5-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car proceeds down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since traffic is moving normally and the lane ahead is clear."
+            }
+        ],
+        "duration": 30.03003003003003
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/289c48a3-1b2c75f5-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car drives slowly down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the traffic is very heavy and slow."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28a01c93-6b334ba7-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is gradually slowing to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is coming to a stop"
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28ae6b92-37850305-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the left hand lane."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28c133b2-03f44247-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is heading down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is moving at a steady speed."
+            }
+        ],
+        "duration": 22.00533867200534
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28c1f464-7171004a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28c8409d-666d3f60-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is at rest"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked in a parking lot."
+            }
+        ],
+        "duration": 36.02941176470588
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28d8a35e-0fb6220b-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there are a lot of cars moving slowly as well."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28d9c749-3c19fdfc-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28d9c749-a37d272d-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopping"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parking."
+            }
+        ],
+        "duration": 29.01234567901235
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28d9ffe4-b4a5f1fd-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car drives very slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as it travels on the snowy road"
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28dbc980-86029e53-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car speeds up down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the road is now clear."
+            }
+        ],
+        "duration": 30.013368983957218
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28e362ca-0f10a8ef-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as the red light does not allow the car to move."
+            }
+        ],
+        "duration": 28.02802802802803
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28e362ca-584a0297-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car steers a little right"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the road is curving"
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28e362ca-8dd280df-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped at an intersection controlled by a red light"
+            }
+        ],
+        "duration": 40.00668449197861
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28e362ca-c1aab59a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the cars aren't moving."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28e362ca-eec8227f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving forward slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is proceeding forward slowly and a vehicle from the right of the car is merging ahead of the car"
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28eec171-c33c9205-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped behind traffic stopped at a red light."
+            }
+        ],
+        "duration": 32.01534868201535
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28f2edd3-243cdc75-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it's parked onto the side."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28f2edd3-68cd3a10-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it's not moving."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28f2edd3-c7b42c3d-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/28febd4d-04517b7c-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is steering left"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling forward on the spiraling exit ramp of the parking structure."
+            }
+        ],
+        "duration": 27.010343677010344
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/290468ad-291a2c21-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving very quickly on the left side of the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no cars in front to slow it down."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/290468ad-44183102-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the leftmost lane"
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/290468ad-b90594ba-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car comes to a quick halt"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light has turned red."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/290a3892-b5782d92-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the lane ahead is clear and traffic is moving normally."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/290f2794-200d9da2-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car accelerates"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light turned green."
+            }
+        ],
+        "duration": 24.024024024024026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2912a02e-e5b1a6ad-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked on the right side of the road."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2913a78f-732af5d4-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car accelerates down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because a turning car has just moved out of the way and the lights ahead are green."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29216ff8-60dc0a01-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The video goes black"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "for unknown reasons."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2928d862-0d3fd976-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no other cars on the road."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2928d862-dcd0486a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the there are no other cars on the road."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/293f43ce-6559c4ba-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car hasn't moved"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the light is red."
+            }
+        ],
+        "duration": 40.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2943d2df-c29cad0d-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because is it pulled over along the curb."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/294bd1dc-e7666aed-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving quicker"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it moved into the faster moving right lane."
+            }
+        ],
+        "duration": 32.01475025142474
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/294e7d71-cc7a80c2-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "x"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "x"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29589b34-3a0e4c62-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is stopped at an intersection."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29594747-ed104fb5-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "at a red light."
+            }
+        ],
+        "duration": 26.026026026026027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29594747-ed104fb5-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no nearby cars in its lane."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/295dbb64-b0cc5380-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slowly moves down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the lights are green, but it is very rainy."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/295f96ef-40ecb0f0-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding down the roadway at a slow pace, evidently in a speed restricted zone around a school."
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29600244-7cf25648-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/296d4d82-5fc84e84-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car drives a somewhat steady speed"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as it moves in heavy traffic"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2986b9db-47c66794-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving fast down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there are no cars in front."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2986b9db-8850063e-5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving at a steady pace"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the cars are driving at a steady pace."
+            }
+        ],
+        "duration": 22.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2986b9db-b580d01a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no nearby cars in its lane."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29892cbc-aeeaba17-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29a4be29-6c78bc33-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the left lane"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the lane is clear of cars."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29ae5f56-fbf6aa17-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slows to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it hit a red light."
+            }
+        ],
+        "duration": 28.02802802802803
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29aefc0d-1093a3f5-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling forward."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling forward in the right hand lane of a tunnel and is moving with the flow of traffic."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29b1cb44-d43ad1d2-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is heading down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is moving at a steady speed."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29cf5709-ec3376de-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car heads down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the lane is clear."
+            }
+        ],
+        "duration": 33.033033033033036
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29e18b45-d5d841cb-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car starts moving forward down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the lights are green and there is no traffic."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29eb071f-05c4c966-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has arrived at the intersection as the light controlling the intersection is turning red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29ed1a7e-97fecc76-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car comes to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "behind cars stopped at a red light."
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29f0dfa7-454c896f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car stays in a fixed position"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "while in the lane of travel"
+            }
+        ],
+        "duration": 25.025025025025027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29f27e14-50519438-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29f78f69-49d8831d-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slows to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "for a red light."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29feb9ac-70ab4833-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the middle lane of a five lane roadway."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/29feb9ac-9b0c2196-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the left most lane."
+            }
+        ],
+        "duration": 29.02902902902903
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a014c4d-73c8745c-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car moves down the highway in the left lane"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the traffic is driving at normal speed."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a051b12-370d9ac6-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving across the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the highway is relatively clear."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a1306bc-2fd90932-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the right hand lane of the road, with no obstructions ahead."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a1306bc-71ec8afd-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is going down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the lane ahead is clear and traffic is moving normally."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a1343ce-8cbb4566-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked next to a fence in front of it."
+            }
+        ],
+        "duration": 37.00367033700367
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a1343ce-da595ab5-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car isn't in motion"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as it is parked in a lot."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a18c836-77979626-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a1e1100-b0b2eb0a-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car makes a right and accelerates up the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the road is clear."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a322002-e5837bf7-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving down the street at a good speed"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the lights are green and there is little traffic."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a3e1798-40b989cc-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is traveling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving and there are no obstructions in the roadway preventing forward travel"
+            }
+        ],
+        "duration": 22.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a43d42b-29735732-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding forward down the roadway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward in the left most lane."
+            }
+        ],
+        "duration": 21.00433767100434
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a472b31-a1c33160-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no nearby cars in its lane."
+            }
+        ],
+        "duration": 35.00166833500167
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a484e03-14820281-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving steadily"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as to avoid touching the cars."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a484e03-be7802e1-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving at a steady speed"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it's driving at the same speed as the other cars."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a484e03-d14fd82b-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding forward, with no obstructions ahead."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a48599d-5f20026b-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has completed its lane change maneuver and is driving in the center lane of the roadway."
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a48599d-6c40f7dc-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there is a red light."
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a531b99-f8b46794-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the road"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a5426eb-33264f72-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward down the road"
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a5426eb-a79e0360-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slows to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "for a red light."
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a5426eb-f3bb20d1-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road and there are no obstructions ahead"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a664d12-0aa9b43f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car isn't moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a664d12-2e5a017a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving fast down the left lane of the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there isn't much traffic."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a664d12-3d8979ba-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has completed its lane change maneuver."
+            }
+        ],
+        "duration": 25.008341675008342
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a664d12-8e2a175b-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has passed through the intersection and is proceeding forward in the right hand lane."
+            }
+        ],
+        "duration": 26.026026026026027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a664d12-de1b1006-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is stopped by a red light controlling the intersection ahead."
+            }
+        ],
+        "duration": 33.033033033033036
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a668ad9-e350c39e-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving forward slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is moving slowly as there are several flares on the road and some sort of police action in the left hand lane of the roadway."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a67c3ce-74175724-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the light is red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a6ad131-9564554e-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car appears to be parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a724505-8cb1783f-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the light has turned red."
+            }
+        ],
+        "duration": 26.026026026026027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a724505-e2bc0f3c-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has not moved"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it is parked on the side."
+            }
+        ],
+        "duration": 34.00066733400067
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a76dd2f-11a1ecce-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it is sitting in its place."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a76dd2f-c873a00a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no cars in its lane in front of it."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a7a4866-2b4c843f-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopping"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic has stopped."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a7a4866-312f5aa2-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding down the roadway at a reasonable speed"
+            }
+        ],
+        "duration": 25.025025025025027
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a7a4866-5635051f-4.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car continues on moving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the cars in front are moving a lot more now."
+            }
+        ],
+        "duration": 23.00633967300634
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a7a4866-9200460f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is completely motionless"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "while waiting for the stoplight to change"
+            }
+        ],
+        "duration": 23.00633967300634
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a7a4866-e4fc4da7-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stationary"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is not moving."
+            }
+        ],
+        "duration": 36.00266933600267
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a7d9875-55eeae72-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down a road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the road ahead is clear."
+            }
+        ],
+        "duration": 40.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a81f1f3-f0325355-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "A vehicle ahead of the car is stopped and is attempting to make a left hand turn."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a83318f-527886df-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slows to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "behind another car at a red light."
+            }
+        ],
+        "duration": 24.024024024024026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a83318f-b9c8a4a8-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car reduces its speed, nearly coming to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as it approaches slow moving traffic in the lane ahead."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a83a999-8848a4f9-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving forward down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the lights are green and traffic is modest."
+            }
+        ],
+        "duration": 35.00166833500167
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a8b147f-40a93a22-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is gradually driving down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since traffic on the road is moving slowly."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a9154da-f88a08d1-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "while the light is red and pedestrians cross the road."
+            }
+        ],
+        "duration": 32.01534868201535
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2a9154da-fc04ed8a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving fast down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the lights are green and there is little traffic."
+            }
+        ],
+        "duration": 21.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ab1684b-cee403ef-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car heads down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is moving at a steady speed."
+            }
+        ],
+        "duration": 22.00533867200534
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ab2f4ce-5dc50f61-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car moves one lane to the right and continues down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is green and there is a gap to move into in the other lane."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ab2f4ce-5dc50f61-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car comes to a stop"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "behind a line of stopped cars."
+            }
+        ],
+        "duration": 23.023023023023026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ab2f4ce-f27276ed-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the traffic is moving along."
+            }
+        ],
+        "duration": 24.00734067400734
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2acfcd8d-15cfe91a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked in a parking lot."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2acfcd8d-964fb4e9-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car appears to be double parked in the roadway."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2acfcd8d-c7786f56-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped behind traffic, which is stopped at an intersection with a red light."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad035f4-bce26a01-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car drive straight forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as the road continues on"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad035f4-ce3be4f4-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked and the driver is adjusting the camera."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad035f4-d0414827-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The camera is moved out of view"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "for unknown reasons."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad1aa4b-296d52e4-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is heading down the tunnel"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is moving at a steady speed."
+            }
+        ],
+        "duration": 27.010343677010344
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad1aa4b-603aad12-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the road is clear."
+            }
+        ],
+        "duration": 39.00567233900567
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad1aa4b-6f70ba50-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is slowly moving down an onramp"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there is a lot of merging traffic ahead."
+            }
+        ],
+        "duration": 22.00533867200534
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad1aa4b-9852e784-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding forward in the right hand lane of the roadway."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad1aa4b-a7d75564-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car begins to move forward slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as the light turned green."
+            }
+        ],
+        "duration": 23.00633967300634
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad1aa4b-c222cefe-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car pulls partially onto the street and stops"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it is at a red light with a minivan in front of it."
+            }
+        ],
+        "duration": 27.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ad8324d-d16953f6-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked along the roadway."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ae714ac-ba0e3e66-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car drives down the empty street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there is no traffic."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ae714ac-ba0e3e66-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car stops at the light"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as it turns red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ae721d0-141b262d-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car moves slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there are cars close to it."
+            }
+        ],
+        "duration": 25.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ae721d0-635a81e8-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the same lane"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it's moving fast."
+            }
+        ],
+        "duration": 50.016683350016685
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ae721d0-e4cacc1a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no nearby cars in its lane."
+            }
+        ],
+        "duration": 27.027027027027028
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2aecc356-eddcf69c-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling in the left hand lane with the flow of traffic ahead."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2aee5704-8fdfa65e-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is not moving"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked near the left side of the street."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2aee5704-b26f1daf-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the light had turned red."
+            }
+        ],
+        "duration": 29.01234567901235
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2aee5704-ff5583ce-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is stuck at a red light."
+            }
+        ],
+        "duration": 36.00266933600267
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2af58da3-c04e01b3-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is going slowly down the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there is a lot of traffic."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2afddd2b-62af2019-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving quickly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the road is clear of traffic."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2afddd2b-f636e99f-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving slower"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it's too close to the cars in front."
+            }
+        ],
+        "duration": 22.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b03d428-0361a1ac-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped at an intersection"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red and pedestrians are crossing the street."
+            }
+        ],
+        "duration": 23.023023023023026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b0ca964-08960725-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped as the school bus has deployed its stop sign"
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b0cf575-05526b72-5.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has moved through the intersection and is traveling forward in the left hand lane"
+            }
+        ],
+        "duration": 22.00533867200534
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b217f9f-ec3a4a64-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving forward down the road in the left hand lane."
+            }
+        ],
+        "duration": 21.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b2a2daa-cae7e730-3.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car stops"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b2dfc79-eb1be6d1-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car slowly drives down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there is no traffic on the street."
+            }
+        ],
+        "duration": 22.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b590735-a3bf6ea0-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving very slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it's maneuvering around cars and people."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2b923350-c22307af-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it is parked there."
+            }
+        ],
+        "duration": 28.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ba3a151-235bb983-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car has completed a turn and is moving forward"
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2ba792cc-e8561884-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving at a curve"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the road is curved."
+            }
+        ],
+        "duration": 25.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bbe0227-4d490a4d-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bdbba62-15245100-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding forward, with no obstructions ahead."
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bddb06c-24c4cf21-2.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car pulls over to the right and stops"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there is a large shoulder where it is safe to do so."
+            }
+        ],
+        "duration": 26.009342676009343
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bddb06c-3ce049d3-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving steadily"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "as it goes down the interstate"
+            }
+        ],
+        "duration": 22.02202202202202
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bed5fb3-76467d2a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "while traffic in front of it moves slowly through a tunnel."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bedfdc9-1b3eb71e-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is heading down the street"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is moving at a steady speed."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bedfdc9-daac418b-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is going fast down the middle lane of the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because traffic is flowing well."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bf04dac-cc27c0e8-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no other cars on the road nearby."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2bf43ae4-abec45f5-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is parked and is being cleaned."
+            }
+        ],
+        "duration": 40.0
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c02054a-1dc1e70f-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no nearby cars in its lane and the light is green."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c02054a-65126d9c-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c0217be-31baadc9-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked in a gated off driveway."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c0217be-e23b7951-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving down the road carefully"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there is traffic and it's wet."
+            }
+        ],
+        "duration": 23.023023023023026
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c0e6c80-87404f1c-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving down the highway in the middle lane at a good speed"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there is only some traffic and it is clear and dry."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c17ed70-b79bc59d-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car moves forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the road curves that way."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c17ed70-e9470c6d-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is green."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c1c4f1d-b7916b3b-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is slowing moving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since the car in front is moving at a steady pace."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c2a7f3b-25f96f3a-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no other cars in its lane."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c2b8827-fa372af1-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is going fast down the right lane of the highway"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are next vehicle in the lane is far off in the distance"
+            }
+        ],
+        "duration": 23.00633967300634
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c2d69f3-516ece11-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is double parked in the roadway with it's turn signal illuminated."
+            }
+        ],
+        "duration": 40.00667334000668
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c2d7d08-516eb709-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped at an intersection"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because the light is red and pedestrians are crossing the street."
+            }
+        ],
+        "duration": 31.03103103103103
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c2e7faa-9b2bd727-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because it is parked."
+            }
+        ],
+        "duration": 20.00333667000334
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c3ba530-6d18d631-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving slowly"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since there are cars nearby."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c43c68a-6769571b-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is moving at a steady pace"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "since it has to follow the same speed as the car in front."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c453889-1be27fcd-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "because there are no nearby cars in its lane."
+            }
+        ],
+        "duration": 21.02102102102102
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c4fb28e-091459b9-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is travelling down the road"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving down the road and approaching a merge with lanes to the left."
+            }
+        ],
+        "duration": 20.02002002002002
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c66430a-0dfc3a40-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is stopped."
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "Traffic ahead of the car is stopped at an intersection."
+            }
+        ],
+        "duration": 38.00467133800467
+    },
+    {
+        "video": [
+            "./datasets/videos-cut/2c66430a-89ec2305-1.mp4"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the motion of the ego vehicle?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is driving forward"
+            },
+            {
+                "from": "human",
+                "value": "Why does an ego vehicle do this motion?"
+            },
+            {
+                "from": "gpt",
+                "value": "The car is proceeding down the roadway with no obstructions ahead."
+            }
+        ],
+        "duration": 40.00667334000668
+    }
+]

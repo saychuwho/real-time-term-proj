@@ -1,0 +1,32 @@
+FROM dustynv/pytorch:2.6-r36.4.0-cu128
+
+WORKDIR /workspaces
+
+RUN \
+    apt-get update && \
+    apt-get install -y git && \
+    apt-get install -y vim && \
+    apt-get install -y libglib2.0-0 && \
+    apt-get install -y ffmpeg && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+COPY ./src/container-prep/requirements-videollama3.txt ./requirements-videollama3.txt
+
+RUN \
+    pip install --upgrade pip && \
+    pip install -r ./requirements-videollama3.txt && \
+    pip install flash-attn --no-build-isolation
+
+RUN \
+    pip install triton
+
+RUN \
+    apt-get update && \
+    apt-get install -y tesseract-ocr libtesseract-dev && \
+    apt-get install -y libgtk-3-0  && \
+    apt-get install -y libgstreamer-plugins-base1.0-0  && \
+    apt-get install -y libtbb2 libtbb12  && \
+    apt-get install -y libatlas-base-dev
+
+CMD ["/bin/bash", "./src/entrypoint-videollama3.sh"]

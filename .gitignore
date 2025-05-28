@@ -5,5 +5,8 @@
 
 /finetuned-model/*
 
+results/*.json
+results-past/
+
 !/finetuned-model/.gitkeep
 !/datasets/inference-test/basketball.mp4
