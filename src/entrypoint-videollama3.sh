@@ -11,16 +11,19 @@
 # python3 src/inference/inference-videollama3.py power_mode 40W
 
 # output_tokens: 16, 32, 48, 64, 80, 128
+# python3 src/inference/inference-videollama3.py output_tokens 4
+# python3 src/inference/inference-videollama3.py output_tokens 8
+# python3 src/inference/inference-videollama3.py output_tokens 12
 # python3 src/inference/inference-videollama3.py output_tokens 16
 # python3 src/inference/inference-videollama3.py output_tokens 32
-python3 src/inference/inference-videollama3.py output_tokens 48
-python3 src/inference/inference-videollama3.py output_tokens 64
-# python3 src/inference/inference-videollama3.py output_tokens 80
-# python3 src/inference/inference-videollama3.py output_tokens 128
+# python3 src/inference/inference-videollama3.py output_tokens 48
+# python3 src/inference/inference-videollama3.py output_tokens 64
+# # python3 src/inference/inference-videollama3.py output_tokens 80
+# # python3 src/inference/inference-videollama3.py output_tokens 128
 
 # input_size: very_short, short, medium, long, very_long
-python3 src/inference/inference-videollama3.py input_size very_short
-python3 src/inference/inference-videollama3.py input_size short
+# python3 src/inference/inference-videollama3.py input_size very_short
+# python3 src/inference/inference-videollama3.py input_size short
 python3 src/inference/inference-videollama3.py input_size medium
 python3 src/inference/inference-videollama3.py input_size long
 python3 src/inference/inference-videollama3.py input_size very_long
