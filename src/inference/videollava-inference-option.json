@@ -1,0 +1,134 @@
+{
+    "power_mode":{
+        "MAXN": {
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "15W":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "30W":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "40W":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        }
+    },
+    "input_size":{
+        "very_short":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "very_short"
+        },
+        "short":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "medium":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "medium"
+        },
+        "long":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "long"
+        },
+        "very_long":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "very_long"
+        }
+    },
+    "output_tokens":{
+        "4":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 4,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "8":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 8,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "12":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 12,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "16":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 16,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "32":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 32,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "48":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 48,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "64":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 64,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "80":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 80,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        },
+        "128":{
+            "model_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "preproc_path": "LanguageBind/Video-LLaVA-7B-hf",
+            "output_tokens": 128,
+            "model_quantization_level": "None",
+            "input_size": "short"
+        }
+    }
+}

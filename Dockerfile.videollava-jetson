@@ -1,4 +1,4 @@
-FROM pytorch/pytorch:2.4.0-cuda12.4-cudnn9-devel
+FROM dustynv/pytorch:2.6-r36.4.0-cu128
 
 WORKDIR /workspaces
 
@@ -26,5 +26,13 @@ RUN \
 
 RUN \
     pip install av
+
+RUN \
+    apt-get update && \
+    apt-get install -y tesseract-ocr libtesseract-dev && \
+    apt-get install -y libgtk-3-0  && \
+    apt-get install -y libgstreamer-plugins-base1.0-0  && \
+    apt-get install -y libtbb2 libtbb12  && \
+    apt-get install -y libatlas-base-dev
 
 CMD ["/bin/bash", "./src/entrypoint-videollava.sh"]
