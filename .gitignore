@@ -12,6 +12,7 @@ results-jetson/
 results-desktop/
 evaluation-results/*.json
 evaluation-results/*.png
+evaluation-results/*.csv
 
 !/finetuned-model/.gitkeep
 !/datasets/inference-test/basketball.mp4

@@ -14,7 +14,7 @@ def data_analysis(data):
         'max': np.max(data),
         'min': np.min(data),
         'kurtosis': kurtosis(data, fisher=True, bias=False),
-        'iqr': iqr(data, rng=(25, 75), interpolation='linear'),
+        'iqrn': iqr(data, rng=(25, 75), interpolation='linear') / np.mean(data),
     }
     return return_dict
 
@@ -64,7 +64,7 @@ for test_env in test_environments:
             input_preprocessing_analysis = data_analysis(input_preprocessing_time_list)
             save_path_1 = f"evaluation-results/input_preprocessing_time_analysis_{test_env}_{test_mode}_{test_args}.png"
             plot_histogram(input_preprocessing_time_list, 
-                        'Input Preprocessing Time Distribution', 
+                        f'Input Preprocessing Time Distribution {test_env} {test_mode} {test_args}', 
                         'Time (seconds)', 
                         'Frequency', 
                         save_path=save_path_1)
@@ -73,7 +73,7 @@ for test_env in test_environments:
             model_inference_analysis = data_analysis(model_inference_time_list)
             save_path_2 = f"evaluation-results/model_inference_time_analysis_{test_env}_{test_mode}_{test_args}.png"
             plot_histogram(model_inference_time_list, 
-                        'Model Inference Time Distribution', 
+                        f'Model Inference Time Distribution {test_env} {test_mode} {test_args}', 
                         'Time (seconds)', 
                         'Frequency', 
                         save_path=save_path_2)
